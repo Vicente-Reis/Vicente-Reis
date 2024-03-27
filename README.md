@@ -2,7 +2,7 @@
 - 👀 Estou interessado em estudar novas tecnologias. 
 - 🧑‍⚖️ Atualmente estou aprendendo e testando as novidades. 
 - 🙋‍♂️ Procuro colaborar em projetos inéditos. IoT 🤖 
-- 🏪 Sou Parceiro Magalu e se quiser saber sobre produtos com novas tecnologias pode entrar em contato comigo. 
+- 🏪 Sou Influenciador Magalu e se quiser saber sobre produtos com novas tecnologias pode entrar em contato comigo. 
 - 🤑 Procurando OFERTAS ou CUPONS?  
 - ✨ Lançamentos ou Novidades tecnologicas? 
 - 🌐 Visite: www.vicentereis.com 😊🛍️🚀

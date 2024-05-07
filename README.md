@@ -1,6 +1,6 @@
 - 📱 Olá, sou @Vicente-Reis 
-- 👀 Tenho grande interesse em explorar novas tecnologias.
-- 🧑‍⚖️ Atualmente, estou imerso na aprendizagem e experimentação das mais recentes inovações.
+- 👀 Tenho grande interesse em explorar novas tecnologias. 
+- 🧑‍⚖️ Atualmente, estou imerso na aprendizagem e experimentação das mais recentes inovações. (IAs)
 - 🙋‍♂️ Estou aberto a colaborar em projetos inovadores, especialmente na área de IoT 🤖.
 - 🏪 Como Influenciador Magalu, estou aqui para fornecer insights sobre produtos com tecnologias de ponta.
 - 🤑 Em busca de OFERTAS ou CUPONS?

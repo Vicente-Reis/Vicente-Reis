@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil! 👋
+# Bem-vindo ao meu perfil! 🧑‍⚖️ 
 
 - 📱 Olá, sou @Vicente-Reis, um entusiasta de tecnologia apaixonado por explorar novas fronteiras e inovações. 
 - 🧑‍⚖️ Este é o meu espaço para compartilhar insights, projetos e experimentos (estudos) nas áreas mais recentes e emocionantes da tecnologia.

@@ -13,7 +13,9 @@
 
 ## Projetos e Experimentos
 - 💻 Estou constantemente trabalhando em projetos pessoais e experimentos, explorando o potencial da Inteligência Artificial, aprendizado de máquina e outras tecnologias de ponta.
+
 - 🚀 Alguns dos meus projetos recentes incluem:
+
   - Google AI Studio: Explorando as capacidades do Google AI Studio para desenvolver modelos de IA poderosos.
   - Google Colab: Utilizando o Google Colab para colaboração e experimentação em projetos de aprendizado de máquina.
   - Gemini: Investigando o potencial do Gemini para aplicações de criptografia e finanças descentralizadas.

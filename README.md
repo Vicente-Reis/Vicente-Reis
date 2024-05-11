@@ -1,3 +1,7 @@
+<!-- Background Image -->
+<p align="center">
+  <img src="https://github.com/Vicente-Reis/vr_imagens/blob/main/VR-fundo_000_exemplo.jpeg"alt="Background Image" />
+</p>
 # Bem-vindo ao meu perfil! 🧑‍⚖️ 
 
 - 📱 Olá, sou @Vicente-Reis, um entusiasta de tecnologia apaixonado por explorar novas fronteiras e inovações. 

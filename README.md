@@ -24,7 +24,7 @@
   - Google AI Studio: Explorando as capacidades do Google AI Studio para desenvolver modelos de IA poderosos.
   - Google Colab: Utilizando o Google Colab para colaboração e experimentação em projetos de aprendizado de máquina.
   - Gemini: Investigando o potencial do Gemini para aplicações de criptografia e finanças descentralizadas.
-  - Outros: Além disso, estou sempre procurando novas ferramentas e plataformas para impulsionar a inovação em meus projetos.
+  - Outros: Além disso, estou sempre procurando novas ferramentas e plataformas para impulsionar a inovação em meus projetos, como por exemplo NotebookLM do Google.
 
 ## Saiba mais
 - 📫 Você pode entrar através do meu perfil no GitHub ou através do meu site pessoal.
